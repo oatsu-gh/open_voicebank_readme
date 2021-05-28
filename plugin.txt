@@ -1,0 +1,3 @@
+name=‰¹Œ¹‚Ìreadme‚ðŠJ‚­
+execute=.\open_voicebank_readme.bat
+ustversion=1.20

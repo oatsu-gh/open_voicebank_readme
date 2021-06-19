@@ -1,4 +1,4 @@
-name=‰¹Œ¹‚Ìreadme‚ðŠJ‚­
+name=‰¹Œ¹‚Ìreadme‚ðŠJ‚­‚Â‚¢‚Å‚É•¶Žš‰»‚¯‚ð’¼‚·
 execute=.\open_voicebank_readme.bat
 ustversion=1.20
 notes=all

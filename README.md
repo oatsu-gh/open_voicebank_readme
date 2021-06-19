@@ -22,3 +22,9 @@ open_voicebank_readme.zip をダウンロードして、D&Dでインストール
 ### v0.0.1（2021-05-29）
 
 - 初配布
+
+### v0.1.0(2021-06-20)
+
+- 文字コード修正機能を追加
+    - readme.txt, character.txt, prefix.map, oto.ini, UST, 歌詞 の文字コードを修正します。
+    - UTF8→cp932に変換します。

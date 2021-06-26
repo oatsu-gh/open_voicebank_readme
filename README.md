@@ -2,6 +2,8 @@
 
 使用中の音源の readme.txt を開くついでに文字化けを直す UTAU プラグイン
 
+**open_voicebank_readme has been moved to [utau_plugins](https://github.com/oatsu-gh/utau_plugins) as [fix_mojibake](https://github.com/oatsu-gh/utau_plugins/fix_mojibake).**
+
 ## インストール
 
 open_voicebank_readme.zip をダウンロードして、D&D でインストールしてください。
@@ -27,7 +29,7 @@ open_voicebank_readme.zip をダウンロードして、D&D でインストー�
 - 初配布
     - readmeを開く機能のみ。
 
-### v0.1.0(2021-06-20)
+### v0.1.0（2021-06-20）
 
 - 文字コード修正機能を追加
     - readme.txt, character.txt, prefix.map, oto.ini, ust の文字コードを修正します。
@@ -37,3 +39,4 @@ open_voicebank_readme.zip をダウンロードして、D&D でインストー�
     - UST ファイル自体が文字化けしていたら可能な限りで修復
 - テンポが 500,000 の時に 120 にする機能を追加
 - Mode2 を True にして UST を上書き保存する機能を追加
+
